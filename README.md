@@ -4,7 +4,7 @@
 - [ ] Adapter
 - [ ] TemplateMethod
 - [ ] FactoryMethod
-- [ ] Singleton
+- [x] Singleton
 - [ ] ProtoType
 - [ ] Builder
 - [ ] AbstractFactory
