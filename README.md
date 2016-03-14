@@ -5,7 +5,7 @@
 - [ ] TemplateMethod
 - [ ] FactoryMethod
 - [x] Singleton
-- [ ] ProtoType
+- [x] ProtoType
 - [x] Builder
 - [ ] AbstractFactory
 - [ ] Bridge
