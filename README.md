@@ -6,7 +6,7 @@
 - [ ] FactoryMethod
 - [x] Singleton
 - [ ] ProtoType
-- [ ] Builder
+- [x] Builder
 - [ ] AbstractFactory
 - [ ] Bridge
 - [ ] Strategy
