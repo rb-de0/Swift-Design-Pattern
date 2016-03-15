@@ -14,7 +14,7 @@
 - [ ] Decorator
 - [ ] Visitor
 - [ ] ChainOfResponsibility
-- [ ] Facade
+- [x] Facade
 - [ ] Mediator
 - [ ] Observer
 - [ ] Memento
