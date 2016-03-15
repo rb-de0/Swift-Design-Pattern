@@ -27,12 +27,10 @@ class MacBookPro: Computer{
 class ComputerFactory{
     class func createComputer(age: Int) -> Computer?{
         switch age{
-        case 0...15:
+        case 0...15, 41...80:
             return MacBookAir()
         case 16...40:
             return MacBookPro()
-        case 41...80:
-            return MacBookAir()
         default:
             return nil
         }
