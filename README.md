@@ -18,7 +18,7 @@
 - [ ] Mediator
 - [ ] Observer
 - [ ] Memento
-- [ ] State
+- [x] State
 - [ ] Flyweight
 - [ ] Proxy
 - [ ] Command
