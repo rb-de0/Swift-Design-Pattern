@@ -12,7 +12,7 @@
 - [x] Strategy
 - [x] Composite
 - [ ] Decorator
-- [ ] Visitor
+- [x] Visitor
 - [x] ChainOfResponsibility
 - [x] Facade
 - [ ] Mediator
