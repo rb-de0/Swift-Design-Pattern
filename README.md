@@ -16,7 +16,7 @@
 - [x] ChainOfResponsibility
 - [x] Facade
 - [ ] Mediator
-- [ ] Observer
+- [x] Observer
 - [ ] Memento
 - [x] State
 - [ ] Flyweight
