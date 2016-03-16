@@ -9,7 +9,7 @@
 - [x] Builder
 - [x] AbstractFactory
 - [ ] Bridge
-- [ ] Strategy
+- [x] Strategy
 - [x] Composite
 - [ ] Decorator
 - [ ] Visitor
