@@ -1,7 +1,7 @@
 # Swiftデザインパターン
 
 - [x] Iterator
-- [ ] Adapter
+- [x] Adapter
 - [x] TemplateMethod
 - [x] FactoryMethod
 - [x] Singleton
