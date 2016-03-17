@@ -20,7 +20,7 @@
 - [x] Memento
 - [x] State
 - [x] Flyweight
-- [ ] Proxy
+- [x] Proxy
 - [ ] Command
 - [ ] Interpreter
 
