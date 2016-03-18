@@ -11,7 +11,7 @@
 - [x] Bridge
 - [x] Strategy
 - [x] Composite
-- [ ] Decorator
+- [x] Decorator
 - [x] Visitor
 - [x] ChainOfResponsibility
 - [x] Facade
