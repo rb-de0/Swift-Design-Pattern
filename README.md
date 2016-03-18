@@ -21,7 +21,7 @@
 - [x] State
 - [x] Flyweight
 - [x] Proxy
-- [ ] Command
+- [x] Command
 - [ ] Interpreter
 
 ※ 本リポジトリのコードは全てXcode 7.2.1のPlayground上で動作確認したものです。
